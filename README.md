@@ -1,4 +1,4 @@
-# Cruise Tech Solutions - Flask Portfolio Website
+# Flask Portfolio Website
 
 This is the **Cruise Tech Solutions** portfolio website built with **Python Flask**. The website showcases our services, projects, and contact information in a simple yet professional layout.
 
